@@ -1,27 +1,37 @@
-<h3 align="center">
+<h3 align="left">
   Welcome to Shubham Sethi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;7%2B+years+of+experience+in+Java+and+Go;Always+learning+new+things"></a>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;7%2B+years+of+experience;Always+learning+new+things"></a>
 </p>
 
-## 🔥 Streak stats
+## 💻 GitHub Profile Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shsethi&theme=tokyonight"/>
   </a>
+  
+<details> 
+  <summary>Github Activity Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shsethi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsethi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+  
  
 </p>
 
 
-<h2 align="center">Technology Stack </h2>
+<h2 align="left">Technology Stack </h2>
 
-<p align="center">
+<p align="left">
 
 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -56,22 +66,11 @@
 
 </p>
 
-
-
-<h2 align="center">Github stats </h2>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shsethi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsethi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 
 
+![](https://komarev.com/ghpvc/?username=shsethi&style=for-the-badge)
 
 
 <!--
