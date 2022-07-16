@@ -23,18 +23,20 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shsethi&theme=tokyonight&hide_border=true" height="192px"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shsethi&theme=tokyonight&hide_border=true"/>
   </a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shsethi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shsethi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_title=true"/></a>
  
  <details>
  <summary>Top languages used</summary>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsethi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Javascript,PHP,CSS" width="487.2px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shsethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsethi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Javascript,PHP,CSS"/></a>
+ 
+ 
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ </details>
+<br/>
   
-   </details>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
  
 </p>
