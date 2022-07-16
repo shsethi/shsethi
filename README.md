@@ -1,7 +1,7 @@
-<h3 align="left">
+<h2 align="left">
   Welcome to Shubham Sethi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-## 💻 GitHub Profile Stats
+## GitHub Profile Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
