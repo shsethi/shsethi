@@ -3,10 +3,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;7%2B+years+of+experience;Always+learning+new+things"></a>
 </p>
+
+
+<h2 align="left">Connect with me</h3>
+
+![Twitter](https://img.shields.io/twitter/follow/suave_sethi?label=@suave_sethi&amp;style=social)
+![GitHub followers](https://img.shields.io/github/followers/shsethi?style=social)
+
+<br/>
 
 ## 💻 GitHub Profile Stats
 
@@ -27,7 +37,8 @@
   
  
 </p>
-
+<br/>
+<br/>
 
 <h2 align="left">Technology Stack </h2>
 
