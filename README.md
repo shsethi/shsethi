@@ -16,6 +16,9 @@
 ![Twitter](https://img.shields.io/twitter/follow/suave_sethi?label=@suave_sethi&amp;style=social)
 ![GitHub followers](https://img.shields.io/github/followers/shsethi?style=social)
 
+## My latest blog post
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=shsethi)](https://dev.to/shsethi)
+
 <br/>
 
 ## GitHub Profile Stats
